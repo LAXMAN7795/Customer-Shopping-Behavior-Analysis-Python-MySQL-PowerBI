@@ -1,0 +1,47 @@
+# Virtual Environment
+Customer_Analysis/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+*.db
+
+# Power BI Temporary Files
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# IDE Files
+.idea/
